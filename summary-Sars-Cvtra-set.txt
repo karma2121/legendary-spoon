@@ -1,0 +1,56 @@
+1: Niemeyer D, Mösbauer K, Klein EM, Sieberg A, Mettelman RC, Mielech AM,
+Dijkman R, Baker SC, Drosten C, Müller MA. The papain-like protease determines a
+virulence trait that varies among members of the SARS-coronavirus species. PLoS
+Pathog. 2018 Sep 24;14(9):e1007296. doi: 10.1371/journal.ppat.1007296. PMID:
+30248143; PMCID: PMC6171950.
+
+2: Gralinski LE, Ferris MT, Aylor DL, Whitmore AC, Green R, Frieman MB, Deming
+D, Menachery VD, Miller DR, Buus RJ, Bell TA, Churchill GA, Threadgill DW, Katze
+MG, McMillan L, Valdar W, Heise MT, Pardo-Manuel de Villena F, Baric RS. Genome
+Wide Identification of SARS-CoV Susceptibility Loci Using the Collaborative
+Cross. PLoS Genet. 2015 Oct 9;11(10):e1005504. doi:
+10.1371/journal.pgen.1005504. PMID: 26452100; PMCID: PMC4599853.
+
+3: Cao L, Wang TY, Chen HZ, Qian Y, Chen BW, Fang P, Sun YX, Zhu RN, Deng J,
+Zhao LQ, Mi J, Zhang T. [A preliminary investigation on the serological and
+epidemiological characteristics of severe acute respiratory syndrome in
+children]. Zhonghua Er Ke Za Zhi. 2004 Nov;42(11):840-4. Chinese. PMID:
+15631713.
+
+4: Mandl JN, Schneider C, Schneider DS, Baker ML. Going to Bat(s) for Studies of
+Disease Tolerance. Front Immunol. 2018 Sep 20;9:2112. doi:
+10.3389/fimmu.2018.02112. PMID: 30294323; PMCID: PMC6158362.
+
+5: Olival KJ, Hosseini PR, Zambrana-Torrelio C, Ross N, Bogich TL, Daszak P.
+Host and viral traits predict zoonotic spillover from mammals. Version 2.
+Nature. 2017 Jun 29;546(7660):646-650. doi: 10.1038/nature22975. Epub 2017 Jun
+21. Erratum in: Nature. 2017 Aug 31;548(7669):612. PMID: 28636590; PMCID:
+PMC5570460.
+
+6: Gralinski LE, Menachery VD, Morgan AP, Totura AL, Beall A, Kocher J, Plante
+J, Harrison-Shostak DC, Schäfer A, Pardo-Manuel de Villena F, Ferris MT, Baric
+RS. Allelic Variation in the Toll-Like Receptor Adaptor Protein <i>Ticam2</i>
+Contributes to SARS-Coronavirus Pathogenesis in Mice. G3 (Bethesda). 2017 Jun
+7;7(6):1653-1663. doi: 10.1534/g3.117.041434. PMID: 28592648; PMCID: PMC5473747.
+
+7: Chan EY, Cheng CK, Tam G, Huang Z, Lee P. Knowledge, attitudes, and practices
+of Hong Kong population towards human A/H7N9 influenza pandemic preparedness,
+China, 2014. BMC Public Health. 2015 Sep 22;15:943. doi:
+10.1186/s12889-015-2245-9. PMID: 26395243; PMCID: PMC4579795.
+
+8: Wang X, Zhou Q, He Y, Liu L, Ma X, Wei X, Jiang N, Liang L, Zheng Y, Ma L, Xu
+Y, Yang D, Zhang J, Yang B, Jiang N, Deng T, Zhai B, Gao Y, Liu W, Bai X, Pan T,
+Wang G, Chang Y, Zhang Z, Shi H, Ma WL, Gao Z. Nosocomial outbreak of COVID-19
+pneumonia in Wuhan, China. Eur Respir J. 2020 Jun 4;55(6):2000544. doi:
+10.1183/13993003.00544-2020. PMID: 32366488; PMCID: PMC7236818.
+
+9: Kachuri L, Francis SS, Morrison M, Bossé Y, Cavazos TB, Rashkin SR, Ziv E,
+Witte JS. The landscape of host genetic factors involved in infection to common
+viruses and SARS-CoV-2. Version 2. medRxiv [Preprint]. 2020 May
+30:2020.05.01.20088054. doi: 10.1101/2020.05.01.20088054. PMID: 32511533; PMCID:
+PMC7273301.
+
+10: Brook CE, Boots M, Chandran K, Dobson AP, Drosten C, Graham AL, Grenfell BT,
+Müller MA, Ng M, Wang LF, van Leeuwen A. Accelerated viral dynamics in bat cell
+lines, with implications for zoonotic emergence. Elife. 2020 Feb 3;9:e48401.
+doi: 10.7554/eLife.48401. PMID: 32011232; PMCID: PMC7064339.
